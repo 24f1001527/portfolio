@@ -3,7 +3,6 @@
     "email": "24f1001527@ds.study.iitm.ac.in",
     "version": "b267c511"
   },
-
   "products": [
     {"id":"prod-b267c511-001","name":"Elite Item 1","category":"sports","price":108.16,"stock":184,"rating":3.6},
     {"id":"prod-b267c511-002","name":"Basic Item 2","category":"electronics","price":330.49,"stock":193,"rating":4.8},
@@ -28,7 +27,6 @@
     {"id":"prod-b267c511-021","name":"Basic Item 21","category":"home","price":316,"stock":57,"rating":4.7},
     {"id":"prod-b267c511-022","name":"Elite Item 22","category":"clothing","price":239.84,"stock":117,"rating":4}
   ],
-
   "aggregations": {
     "home": {
       "count": 6,
